@@ -32,4 +32,4 @@ $RECYCLE.BIN/
 *.code-workspace
 
 # secrets
-secrets.ini
+secret_key.txt
