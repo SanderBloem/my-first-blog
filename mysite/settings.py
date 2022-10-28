@@ -28,6 +28,7 @@ with open(secret_file) as f:
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+# ALLOWED_HOSTS = ['[::]', '[2a0e:fdc1:1107:7200:4448:bca3:a48a:b2b9]', '100.64.7.114']
 ALLOWED_HOSTS = ['localhost', '127.0.0.0', '.pythonanywhere.com']
 
 
